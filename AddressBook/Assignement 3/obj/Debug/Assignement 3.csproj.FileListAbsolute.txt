@@ -1,0 +1,10 @@
+c:\users\greg\documents\visual studio 2015\Projects\Assignement 3\Assignement 3\bin\Debug\Assignement 3.exe.config
+c:\users\greg\documents\visual studio 2015\Projects\Assignement 3\Assignement 3\bin\Debug\Assignement 3.exe
+c:\users\greg\documents\visual studio 2015\Projects\Assignement 3\Assignement 3\bin\Debug\Assignement 3.pdb
+c:\users\greg\documents\visual studio 2015\Projects\Assignement 3\Assignement 3\obj\Debug\Assignement 3.csprojResolveAssemblyReference.cache
+c:\users\greg\documents\visual studio 2015\Projects\Assignement 3\Assignement 3\obj\Debug\Assignement 3.exe
+c:\users\greg\documents\visual studio 2015\Projects\Assignement 3\Assignement 3\obj\Debug\Assignement 3.pdb
+C:\Users\Greg\documents\visual studio 2015\Projects\Assignement 3\Assignement 3\bin\Debug\Assignement 3.exe.manifest
+C:\Users\Greg\documents\visual studio 2015\Projects\Assignement 3\Assignement 3\bin\Debug\Assignement 3.application
+C:\Users\Greg\documents\visual studio 2015\Projects\Assignement 3\Assignement 3\obj\Debug\Assignement 3.exe.manifest
+C:\Users\Greg\documents\visual studio 2015\Projects\Assignement 3\Assignement 3\obj\Debug\Assignement 3.application
